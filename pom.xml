@@ -45,11 +45,6 @@
       <version>1.4.14.redhat-00001</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>com.gdit.rhba</groupId>
-      <artifactId>rhba-commons-event-listeners</artifactId>
-      <version>1.0.0-SNAPSHOT</version>
-    </dependency>
   </dependencies>
   <build>
     <plugins>
